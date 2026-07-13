@@ -1,0 +1,1802 @@
+[
+  {
+    "vendorId": "V001",
+    "contractExpiry": "2026-08-23",
+    "contractValue": 2886676,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V002",
+    "contractExpiry": "2026-08-14",
+    "contractValue": 834955,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V003",
+    "contractExpiry": "2026-08-11",
+    "contractValue": 1159059,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V004",
+    "contractExpiry": "2026-09-01",
+    "contractValue": 4151372,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V005",
+    "contractExpiry": "2026-08-11",
+    "contractValue": 4617428,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V006",
+    "contractExpiry": "2026-08-24",
+    "contractValue": 792980,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V007",
+    "contractExpiry": "2026-08-14",
+    "contractValue": 2919462,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V008",
+    "contractExpiry": "2026-08-17",
+    "contractValue": 601020,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V009",
+    "contractExpiry": "2026-07-31",
+    "contractValue": 3969631,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V010",
+    "contractExpiry": "2026-07-26",
+    "contractValue": 3626212,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V011",
+    "contractExpiry": "2026-09-05",
+    "contractValue": 3266354,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V012",
+    "contractExpiry": "2026-07-05",
+    "contractValue": 3573484,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V013",
+    "contractExpiry": "2026-07-22",
+    "contractValue": 2071016,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V014",
+    "contractExpiry": "2026-09-08",
+    "contractValue": 3191102,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V015",
+    "contractExpiry": "2026-07-17",
+    "contractValue": 1240983,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V016",
+    "contractExpiry": "2026-08-28",
+    "contractValue": 4435589,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V017",
+    "contractExpiry": "2026-09-04",
+    "contractValue": 878940,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V018",
+    "contractExpiry": "2026-08-12",
+    "contractValue": 1773521,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V019",
+    "contractExpiry": "2026-07-31",
+    "contractValue": 4581055,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V020",
+    "contractExpiry": "2026-08-21",
+    "contractValue": 3420322,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V021",
+    "contractExpiry": "2026-07-02",
+    "contractValue": 539859,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V022",
+    "contractExpiry": "2026-08-24",
+    "contractValue": 1615620,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V023",
+    "contractExpiry": "2026-09-04",
+    "contractValue": 1126151,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V024",
+    "contractExpiry": "2026-07-09",
+    "contractValue": 2823740,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V025",
+    "contractExpiry": "2026-08-27",
+    "contractValue": 2407045,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V026",
+    "contractExpiry": "2026-07-04",
+    "contractValue": 4045229,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V027",
+    "contractExpiry": "2026-08-18",
+    "contractValue": 2521877,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V028",
+    "contractExpiry": "2026-08-20",
+    "contractValue": 3099981,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V029",
+    "contractExpiry": "2026-09-03",
+    "contractValue": 4556293,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V030",
+    "contractExpiry": "2026-08-30",
+    "contractValue": 4775837,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V031",
+    "contractExpiry": "2026-07-10",
+    "contractValue": 4881570,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V032",
+    "contractExpiry": "2026-07-21",
+    "contractValue": 1846296,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V033",
+    "contractExpiry": "2026-08-23",
+    "contractValue": 2544299,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V034",
+    "contractExpiry": "2026-08-12",
+    "contractValue": 1986882,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V035",
+    "contractExpiry": "2026-08-26",
+    "contractValue": 2505733,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V036",
+    "contractExpiry": "2026-07-17",
+    "contractValue": 2522265,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V037",
+    "contractExpiry": "2026-07-08",
+    "contractValue": 2825158,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V038",
+    "contractExpiry": "2026-08-24",
+    "contractValue": 2876840,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V039",
+    "contractExpiry": "2026-08-29",
+    "contractValue": 3969955,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V040",
+    "contractExpiry": "2026-08-27",
+    "contractValue": 849967,
+    "ContractStatus": "Expiring Soon"
+  },
+  {
+    "vendorId": "V041",
+    "contractExpiry": "2026-12-26",
+    "contractValue": 2194438,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V042",
+    "contractExpiry": "2026-09-15",
+    "contractValue": 4757192,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V043",
+    "contractExpiry": "2026-12-30",
+    "contractValue": 3040562,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V044",
+    "contractExpiry": "2026-10-05",
+    "contractValue": 4579916,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V045",
+    "contractExpiry": "2026-10-03",
+    "contractValue": 4737437,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V046",
+    "contractExpiry": "2026-11-20",
+    "contractValue": 3166204,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V047",
+    "contractExpiry": "2026-10-10",
+    "contractValue": 3129560,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V048",
+    "contractExpiry": "2026-11-20",
+    "contractValue": 2506680,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V049",
+    "contractExpiry": "2026-12-02",
+    "contractValue": 3356938,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V050",
+    "contractExpiry": "2026-10-18",
+    "contractValue": 1187518,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V051",
+    "contractExpiry": "2026-11-22",
+    "contractValue": 299878,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V052",
+    "contractExpiry": "2027-02-07",
+    "contractValue": 2712262,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V053",
+    "contractExpiry": "2026-12-10",
+    "contractValue": 1878110,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V054",
+    "contractExpiry": "2026-10-24",
+    "contractValue": 3866281,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V055",
+    "contractExpiry": "2027-01-04",
+    "contractValue": 852381,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V056",
+    "contractExpiry": "2026-09-22",
+    "contractValue": 525811,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V057",
+    "contractExpiry": "2026-12-22",
+    "contractValue": 971850,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V058",
+    "contractExpiry": "2026-10-19",
+    "contractValue": 2307829,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V059",
+    "contractExpiry": "2027-01-29",
+    "contractValue": 4968299,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V060",
+    "contractExpiry": "2026-10-10",
+    "contractValue": 347051,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V061",
+    "contractExpiry": "2026-12-19",
+    "contractValue": 2940589,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V062",
+    "contractExpiry": "2026-09-28",
+    "contractValue": 1586480,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V063",
+    "contractExpiry": "2026-11-13",
+    "contractValue": 4194572,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V064",
+    "contractExpiry": "2027-01-20",
+    "contractValue": 2343270,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V065",
+    "contractExpiry": "2026-11-14",
+    "contractValue": 1305540,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V066",
+    "contractExpiry": "2026-10-27",
+    "contractValue": 2188970,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V067",
+    "contractExpiry": "2027-01-21",
+    "contractValue": 3780639,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V068",
+    "contractExpiry": "2026-12-25",
+    "contractValue": 3819598,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V069",
+    "contractExpiry": "2026-12-14",
+    "contractValue": 4815067,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V070",
+    "contractExpiry": "2026-11-13",
+    "contractValue": 4033384,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V071",
+    "contractExpiry": "2026-12-13",
+    "contractValue": 699728,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V072",
+    "contractExpiry": "2026-10-15",
+    "contractValue": 3626862,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V073",
+    "contractExpiry": "2026-10-31",
+    "contractValue": 3421209,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V074",
+    "contractExpiry": "2026-10-11",
+    "contractValue": 791243,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V075",
+    "contractExpiry": "2027-01-07",
+    "contractValue": 887841,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V076",
+    "contractExpiry": "2026-12-09",
+    "contractValue": 3827837,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V077",
+    "contractExpiry": "2026-11-06",
+    "contractValue": 3125759,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V078",
+    "contractExpiry": "2027-01-13",
+    "contractValue": 2718547,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V079",
+    "contractExpiry": "2027-01-16",
+    "contractValue": 3760433,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V080",
+    "contractExpiry": "2026-12-24",
+    "contractValue": 4849877,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V081",
+    "contractExpiry": "2026-11-13",
+    "contractValue": 2387662,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V082",
+    "contractExpiry": "2026-10-29",
+    "contractValue": 4992590,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V083",
+    "contractExpiry": "2027-01-12",
+    "contractValue": 1176725,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V084",
+    "contractExpiry": "2026-10-26",
+    "contractValue": 1704485,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V085",
+    "contractExpiry": "2026-11-03",
+    "contractValue": 1452855,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V086",
+    "contractExpiry": "2026-09-25",
+    "contractValue": 4766261,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V087",
+    "contractExpiry": "2026-11-14",
+    "contractValue": 1532998,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V088",
+    "contractExpiry": "2026-12-26",
+    "contractValue": 1439866,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V089",
+    "contractExpiry": "2026-11-30",
+    "contractValue": 1755422,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V090",
+    "contractExpiry": "2027-01-20",
+    "contractValue": 4284637,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V091",
+    "contractExpiry": "2026-11-13",
+    "contractValue": 754275,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V092",
+    "contractExpiry": "2026-11-30",
+    "contractValue": 859392,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V093",
+    "contractExpiry": "2026-10-03",
+    "contractValue": 904012,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V094",
+    "contractExpiry": "2026-10-21",
+    "contractValue": 2636743,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V095",
+    "contractExpiry": "2026-12-19",
+    "contractValue": 4521223,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V096",
+    "contractExpiry": "2026-12-12",
+    "contractValue": 2887860,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V097",
+    "contractExpiry": "2027-02-02",
+    "contractValue": 4906993,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V098",
+    "contractExpiry": "2026-09-16",
+    "contractValue": 1398270,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V099",
+    "contractExpiry": "2026-12-06",
+    "contractValue": 2091740,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V100",
+    "contractExpiry": "2026-10-31",
+    "contractValue": 1151064,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V101",
+    "contractExpiry": "2027-02-02",
+    "contractValue": 2826733,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V102",
+    "contractExpiry": "2027-01-05",
+    "contractValue": 3935916,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V103",
+    "contractExpiry": "2026-09-29",
+    "contractValue": 4246694,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V104",
+    "contractExpiry": "2026-12-19",
+    "contractValue": 4611910,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V105",
+    "contractExpiry": "2027-01-20",
+    "contractValue": 1767725,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V106",
+    "contractExpiry": "2026-09-23",
+    "contractValue": 2445788,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V107",
+    "contractExpiry": "2027-01-30",
+    "contractValue": 2051384,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V108",
+    "contractExpiry": "2026-09-29",
+    "contractValue": 3377728,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V109",
+    "contractExpiry": "2026-10-28",
+    "contractValue": 3814531,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V110",
+    "contractExpiry": "2027-02-12",
+    "contractValue": 2234457,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V111",
+    "contractExpiry": "2027-02-11",
+    "contractValue": 1310261,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V112",
+    "contractExpiry": "2026-12-16",
+    "contractValue": 1857544,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V113",
+    "contractExpiry": "2026-10-17",
+    "contractValue": 1697004,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V114",
+    "contractExpiry": "2026-11-12",
+    "contractValue": 3385355,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V115",
+    "contractExpiry": "2026-12-03",
+    "contractValue": 3651796,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V116",
+    "contractExpiry": "2027-01-30",
+    "contractValue": 2966061,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V117",
+    "contractExpiry": "2026-09-19",
+    "contractValue": 1473347,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V118",
+    "contractExpiry": "2026-11-02",
+    "contractValue": 687302,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V119",
+    "contractExpiry": "2027-02-03",
+    "contractValue": 2095361,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V120",
+    "contractExpiry": "2026-10-01",
+    "contractValue": 3884179,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V121",
+    "contractExpiry": "2027-07-05",
+    "contractValue": 2670520,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V122",
+    "contractExpiry": "2029-01-09",
+    "contractValue": 218364,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V123",
+    "contractExpiry": "2029-01-20",
+    "contractValue": 4009442,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V124",
+    "contractExpiry": "2028-06-23",
+    "contractValue": 4073034,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V125",
+    "contractExpiry": "2028-08-07",
+    "contractValue": 3010631,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V126",
+    "contractExpiry": "2028-11-10",
+    "contractValue": 252929,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V127",
+    "contractExpiry": "2027-11-07",
+    "contractValue": 1159692,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V128",
+    "contractExpiry": "2028-10-13",
+    "contractValue": 4925363,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V129",
+    "contractExpiry": "2028-12-06",
+    "contractValue": 3837143,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V130",
+    "contractExpiry": "2028-01-08",
+    "contractValue": 4705356,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V131",
+    "contractExpiry": "2029-01-11",
+    "contractValue": 1118366,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V132",
+    "contractExpiry": "2027-05-24",
+    "contractValue": 3766016,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V133",
+    "contractExpiry": "2027-04-08",
+    "contractValue": 2297235,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V134",
+    "contractExpiry": "2028-08-19",
+    "contractValue": 4396977,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V135",
+    "contractExpiry": "2027-11-29",
+    "contractValue": 3865523,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V136",
+    "contractExpiry": "2028-11-05",
+    "contractValue": 2719034,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V137",
+    "contractExpiry": "2027-10-01",
+    "contractValue": 4918144,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V138",
+    "contractExpiry": "2027-03-06",
+    "contractValue": 4581205,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V139",
+    "contractExpiry": "2027-10-18",
+    "contractValue": 3108884,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V140",
+    "contractExpiry": "2027-03-09",
+    "contractValue": 2978296,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V141",
+    "contractExpiry": "2027-08-17",
+    "contractValue": 3475823,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V142",
+    "contractExpiry": "2028-08-15",
+    "contractValue": 4057632,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V143",
+    "contractExpiry": "2028-12-30",
+    "contractValue": 4108849,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V144",
+    "contractExpiry": "2027-06-15",
+    "contractValue": 1758049,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V145",
+    "contractExpiry": "2028-08-08",
+    "contractValue": 1669671,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V146",
+    "contractExpiry": "2028-09-06",
+    "contractValue": 3513158,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V147",
+    "contractExpiry": "2028-06-04",
+    "contractValue": 3724276,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V148",
+    "contractExpiry": "2027-04-08",
+    "contractValue": 1960050,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V149",
+    "contractExpiry": "2028-09-18",
+    "contractValue": 430855,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V150",
+    "contractExpiry": "2027-03-14",
+    "contractValue": 706125,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V151",
+    "contractExpiry": "2028-07-16",
+    "contractValue": 2917490,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V152",
+    "contractExpiry": "2027-08-15",
+    "contractValue": 2162757,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V153",
+    "contractExpiry": "2028-11-05",
+    "contractValue": 1755528,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V154",
+    "contractExpiry": "2028-02-11",
+    "contractValue": 492924,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V155",
+    "contractExpiry": "2027-10-30",
+    "contractValue": 4063511,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V156",
+    "contractExpiry": "2027-09-30",
+    "contractValue": 3660017,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V157",
+    "contractExpiry": "2028-10-04",
+    "contractValue": 2543604,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V158",
+    "contractExpiry": "2027-06-12",
+    "contractValue": 3130327,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V159",
+    "contractExpiry": "2028-05-04",
+    "contractValue": 1560508,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V160",
+    "contractExpiry": "2028-07-31",
+    "contractValue": 1422140,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V161",
+    "contractExpiry": "2028-08-15",
+    "contractValue": 499772,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V162",
+    "contractExpiry": "2027-06-18",
+    "contractValue": 248662,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V163",
+    "contractExpiry": "2027-07-20",
+    "contractValue": 538306,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V164",
+    "contractExpiry": "2028-03-16",
+    "contractValue": 557694,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V165",
+    "contractExpiry": "2028-06-21",
+    "contractValue": 3656752,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V166",
+    "contractExpiry": "2028-01-12",
+    "contractValue": 794080,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V167",
+    "contractExpiry": "2028-02-28",
+    "contractValue": 356338,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V168",
+    "contractExpiry": "2029-02-19",
+    "contractValue": 4372381,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V169",
+    "contractExpiry": "2028-01-22",
+    "contractValue": 1876958,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V170",
+    "contractExpiry": "2028-04-24",
+    "contractValue": 620191,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V171",
+    "contractExpiry": "2027-05-18",
+    "contractValue": 1230267,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V172",
+    "contractExpiry": "2028-02-15",
+    "contractValue": 2692496,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V173",
+    "contractExpiry": "2027-11-04",
+    "contractValue": 1972536,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V174",
+    "contractExpiry": "2027-06-23",
+    "contractValue": 3689557,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V175",
+    "contractExpiry": "2029-01-12",
+    "contractValue": 3229893,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V176",
+    "contractExpiry": "2028-11-12",
+    "contractValue": 517516,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V177",
+    "contractExpiry": "2028-01-25",
+    "contractValue": 2694294,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V178",
+    "contractExpiry": "2027-10-30",
+    "contractValue": 4551421,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V179",
+    "contractExpiry": "2027-03-02",
+    "contractValue": 1826511,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V180",
+    "contractExpiry": "2027-10-07",
+    "contractValue": 1538444,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V181",
+    "contractExpiry": "2028-10-31",
+    "contractValue": 3202626,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V182",
+    "contractExpiry": "2028-04-13",
+    "contractValue": 4359359,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V183",
+    "contractExpiry": "2028-06-19",
+    "contractValue": 2847793,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V184",
+    "contractExpiry": "2027-10-16",
+    "contractValue": 274412,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V185",
+    "contractExpiry": "2028-12-09",
+    "contractValue": 3170883,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V186",
+    "contractExpiry": "2028-01-20",
+    "contractValue": 2775461,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V187",
+    "contractExpiry": "2028-09-11",
+    "contractValue": 2772464,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V188",
+    "contractExpiry": "2027-11-19",
+    "contractValue": 1430060,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V189",
+    "contractExpiry": "2028-06-12",
+    "contractValue": 568785,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V190",
+    "contractExpiry": "2027-05-11",
+    "contractValue": 4909684,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V191",
+    "contractExpiry": "2029-01-23",
+    "contractValue": 1029483,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V192",
+    "contractExpiry": "2028-12-03",
+    "contractValue": 3742311,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V193",
+    "contractExpiry": "2027-08-11",
+    "contractValue": 2481327,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V194",
+    "contractExpiry": "2028-06-20",
+    "contractValue": 762178,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V195",
+    "contractExpiry": "2028-03-02",
+    "contractValue": 691993,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V196",
+    "contractExpiry": "2028-06-23",
+    "contractValue": 3147857,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V197",
+    "contractExpiry": "2028-03-20",
+    "contractValue": 4030909,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V198",
+    "contractExpiry": "2028-05-26",
+    "contractValue": 2897835,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V199",
+    "contractExpiry": "2027-03-21",
+    "contractValue": 4565719,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V200",
+    "contractExpiry": "2027-04-08",
+    "contractValue": 1022465,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V201",
+    "contractExpiry": "2027-04-30",
+    "contractValue": 1531266,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V202",
+    "contractExpiry": "2027-12-30",
+    "contractValue": 2909556,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V203",
+    "contractExpiry": "2027-09-03",
+    "contractValue": 729725,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V204",
+    "contractExpiry": "2029-01-20",
+    "contractValue": 1826312,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V205",
+    "contractExpiry": "2028-03-13",
+    "contractValue": 2384347,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V206",
+    "contractExpiry": "2027-10-21",
+    "contractValue": 4113654,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V207",
+    "contractExpiry": "2028-01-26",
+    "contractValue": 4069051,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V208",
+    "contractExpiry": "2027-06-15",
+    "contractValue": 4963946,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V209",
+    "contractExpiry": "2028-04-18",
+    "contractValue": 4613733,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V210",
+    "contractExpiry": "2029-02-21",
+    "contractValue": 2813159,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V211",
+    "contractExpiry": "2027-11-21",
+    "contractValue": 1307839,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V212",
+    "contractExpiry": "2028-04-22",
+    "contractValue": 1486041,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V213",
+    "contractExpiry": "2029-02-16",
+    "contractValue": 1925791,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V214",
+    "contractExpiry": "2027-03-13",
+    "contractValue": 4688484,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V215",
+    "contractExpiry": "2029-01-08",
+    "contractValue": 2792757,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V216",
+    "contractExpiry": "2027-10-29",
+    "contractValue": 3441221,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V217",
+    "contractExpiry": "2027-08-21",
+    "contractValue": 1267200,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V218",
+    "contractExpiry": "2027-12-05",
+    "contractValue": 1835049,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V219",
+    "contractExpiry": "2029-02-26",
+    "contractValue": 466454,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V220",
+    "contractExpiry": "2027-09-26",
+    "contractValue": 3827693,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V221",
+    "contractExpiry": "2028-01-11",
+    "contractValue": 281443,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V222",
+    "contractExpiry": "2027-05-20",
+    "contractValue": 1712712,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V223",
+    "contractExpiry": "2027-06-29",
+    "contractValue": 1190644,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V224",
+    "contractExpiry": "2028-01-14",
+    "contractValue": 4388951,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V225",
+    "contractExpiry": "2028-06-16",
+    "contractValue": 2327208,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V226",
+    "contractExpiry": "2028-06-18",
+    "contractValue": 4953702,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V227",
+    "contractExpiry": "2029-02-02",
+    "contractValue": 2062206,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V228",
+    "contractExpiry": "2028-07-11",
+    "contractValue": 4901035,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V229",
+    "contractExpiry": "2027-12-03",
+    "contractValue": 2490396,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V230",
+    "contractExpiry": "2027-03-07",
+    "contractValue": 661565,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V231",
+    "contractExpiry": "2027-09-24",
+    "contractValue": 4340914,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V232",
+    "contractExpiry": "2028-06-10",
+    "contractValue": 1218434,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V233",
+    "contractExpiry": "2028-07-18",
+    "contractValue": 1813294,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V234",
+    "contractExpiry": "2027-04-06",
+    "contractValue": 4231085,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V235",
+    "contractExpiry": "2029-02-08",
+    "contractValue": 4276224,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V236",
+    "contractExpiry": "2027-04-07",
+    "contractValue": 3491953,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V237",
+    "contractExpiry": "2027-05-24",
+    "contractValue": 2594026,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V238",
+    "contractExpiry": "2027-04-12",
+    "contractValue": 4690881,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V239",
+    "contractExpiry": "2028-09-17",
+    "contractValue": 4960610,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V240",
+    "contractExpiry": "2028-01-19",
+    "contractValue": 2574389,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V241",
+    "contractExpiry": "2028-07-03",
+    "contractValue": 1409602,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V242",
+    "contractExpiry": "2029-01-04",
+    "contractValue": 3486402,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V243",
+    "contractExpiry": "2028-07-21",
+    "contractValue": 3296039,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V244",
+    "contractExpiry": "2028-03-30",
+    "contractValue": 620318,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V245",
+    "contractExpiry": "2028-06-14",
+    "contractValue": 4568024,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V246",
+    "contractExpiry": "2027-07-14",
+    "contractValue": 371218,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V247",
+    "contractExpiry": "2028-12-12",
+    "contractValue": 3223608,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V248",
+    "contractExpiry": "2028-04-09",
+    "contractValue": 3159758,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V249",
+    "contractExpiry": "2029-01-15",
+    "contractValue": 2954622,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V250",
+    "contractExpiry": "2028-12-23",
+    "contractValue": 723515,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V251",
+    "contractExpiry": "2028-11-20",
+    "contractValue": 3459013,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V252",
+    "contractExpiry": "2027-06-12",
+    "contractValue": 1793833,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V253",
+    "contractExpiry": "2028-10-24",
+    "contractValue": 766173,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V254",
+    "contractExpiry": "2028-11-20",
+    "contractValue": 4669647,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V255",
+    "contractExpiry": "2028-09-02",
+    "contractValue": 3584347,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V256",
+    "contractExpiry": "2029-01-12",
+    "contractValue": 3348813,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V257",
+    "contractExpiry": "2027-11-27",
+    "contractValue": 331424,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V258",
+    "contractExpiry": "2027-11-15",
+    "contractValue": 3500988,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V259",
+    "contractExpiry": "2027-08-30",
+    "contractValue": 2771833,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V260",
+    "contractExpiry": "2027-12-16",
+    "contractValue": 702443,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V261",
+    "contractExpiry": "2028-10-22",
+    "contractValue": 4581978,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V262",
+    "contractExpiry": "2029-02-09",
+    "contractValue": 2047003,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V263",
+    "contractExpiry": "2027-11-10",
+    "contractValue": 4527749,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V264",
+    "contractExpiry": "2028-05-30",
+    "contractValue": 3358705,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V265",
+    "contractExpiry": "2027-05-26",
+    "contractValue": 477220,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V266",
+    "contractExpiry": "2027-05-28",
+    "contractValue": 4246572,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V267",
+    "contractExpiry": "2028-06-26",
+    "contractValue": 1689600,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V268",
+    "contractExpiry": "2028-09-12",
+    "contractValue": 4720008,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V269",
+    "contractExpiry": "2028-08-09",
+    "contractValue": 4950987,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V270",
+    "contractExpiry": "2027-11-13",
+    "contractValue": 1757201,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V271",
+    "contractExpiry": "2028-12-29",
+    "contractValue": 4507866,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V272",
+    "contractExpiry": "2028-04-10",
+    "contractValue": 1595022,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V273",
+    "contractExpiry": "2028-02-15",
+    "contractValue": 2753517,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V274",
+    "contractExpiry": "2027-09-05",
+    "contractValue": 1578508,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V275",
+    "contractExpiry": "2027-08-01",
+    "contractValue": 2513925,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V276",
+    "contractExpiry": "2028-09-03",
+    "contractValue": 4783271,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V277",
+    "contractExpiry": "2027-07-26",
+    "contractValue": 3300812,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V278",
+    "contractExpiry": "2027-12-21",
+    "contractValue": 2902241,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V279",
+    "contractExpiry": "2027-11-29",
+    "contractValue": 2749718,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V280",
+    "contractExpiry": "2027-10-01",
+    "contractValue": 1854061,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V281",
+    "contractExpiry": "2028-04-23",
+    "contractValue": 1109605,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V282",
+    "contractExpiry": "2028-12-12",
+    "contractValue": 4175695,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V283",
+    "contractExpiry": "2028-08-19",
+    "contractValue": 231352,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V284",
+    "contractExpiry": "2027-08-07",
+    "contractValue": 3913141,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V285",
+    "contractExpiry": "2029-01-29",
+    "contractValue": 1855751,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V286",
+    "contractExpiry": "2027-02-24",
+    "contractValue": 4221784,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V287",
+    "contractExpiry": "2028-02-28",
+    "contractValue": 2216034,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V288",
+    "contractExpiry": "2029-01-06",
+    "contractValue": 3362353,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V289",
+    "contractExpiry": "2028-09-26",
+    "contractValue": 4500724,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V290",
+    "contractExpiry": "2028-02-18",
+    "contractValue": 3698732,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V291",
+    "contractExpiry": "2027-04-26",
+    "contractValue": 409852,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V292",
+    "contractExpiry": "2028-12-23",
+    "contractValue": 1820404,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V293",
+    "contractExpiry": "2027-06-08",
+    "contractValue": 4819009,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V294",
+    "contractExpiry": "2028-11-29",
+    "contractValue": 3034374,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V295",
+    "contractExpiry": "2027-02-15",
+    "contractValue": 1854525,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V296",
+    "contractExpiry": "2028-11-18",
+    "contractValue": 4229062,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V297",
+    "contractExpiry": "2027-08-31",
+    "contractValue": 1712343,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V298",
+    "contractExpiry": "2027-12-08",
+    "contractValue": 3729320,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V299",
+    "contractExpiry": "2028-07-13",
+    "contractValue": 228423,
+    "ContractStatus": "Active"
+  },
+  {
+    "vendorId": "V300",
+    "contractExpiry": "2027-04-20",
+    "contractValue": 3283978,
+    "ContractStatus": "Active"
+  }
+]
