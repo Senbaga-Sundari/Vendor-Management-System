@@ -24,4 +24,5 @@ public void run(String... args) {
 
     System.out.println("Azure SQL Connection Successful : " + result);
 }
+
 }
